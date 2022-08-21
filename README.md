@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontendmentor.io](https://www.frontendmentor.io/solutions/single-price-grid-component-challenge-using-html-css-BLQJmpmXau)
-- Live Site URL: [fsuropaty.github.io](https://fsuropaty.github.io/single-price-grid-component-challenge/)
+- Solution URL: [Frontendmentor.io](https://www.frontendmentor.io/solutions/product-preview-card-component-challenge-using-tailwind-css-81I1YmuId5)
+- Live Site URL: [fsuropaty.github.io](https://fsuropaty.github.io/product-preview-card-component-challenge/)
 
 ## My process
 
