@@ -1,10 +1,10 @@
-# Frontend Mentor - Single price grid component solution
+# Frontend Mentor - Product preview card component solution
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
-- [Frontend Mentor - Single price grid component solution](#frontend-mentor---single-price-grid-component-solution)
+- [Frontend Mentor - Product preview card component solution](#frontend-mentor---Product-preview-card-component-solution)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Built with
 
-- Tailwind CSS
+- [Tailwind CSS](https://tailwindcss.com)
 - Mobile-first workflow
 
 ### What I learned
